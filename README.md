@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Projects.**
 
-- 👨‍💻 All of my projects are available at [ilaydev.com](ilaydev.com)
+- 👨‍💻 All of my projects are available at [https://ilaydev.com](https://ilaydev.com)
 
 - 💬 Ask me about **vuejs and backend.**
 
 - 📫 How to reach me **kanoe200@gmail.com**
 
-- 📄 Know about my experiences [ilaydev.com/#/about](ilaydev.com/#/about)
+- 📄 Know about my experiences [https://ilaydev.com/#/about](https://ilaydev.com/#/about)
 
 - ⚡ Fun fact **Im poggers.**
 
