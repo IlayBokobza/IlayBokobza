@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilay Bokobza</h1>
 <h3 align="center">A passionate fullstack web devloper from Israel.</h3>
 
-- 🌱 I’m currently learning **Unity**
-
-- 👯 I’m looking to collaborate on **Projects.**
-
 - 👨‍💻 All of my projects are available at [https://ilaydev.com](https://ilaydev.com)
 
 - 💬 Ask me about **vuejs and backend.**
