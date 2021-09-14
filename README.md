@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilay Bokobza</h1>
+<h2 align="center">Hi 👋, I'm Ilay Bokobza</h2>
 <h3 align="center">A passionate fullstack web devloper from Israel.</h3>
 
 - 👨‍💻 All of my projects are available at [https://ilaydev.com](https://ilaydev.com)
